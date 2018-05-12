@@ -1,0 +1,32 @@
+_repo: The-Cries-of-LondonExhibiting-Several-of-the-Itinerant-Traders-of-Antient-and-Modern-Times_37817
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, John Thomas
+    alias: Smith, J. T. (John Thomas)
+    birthdate: 1766
+    deathdate: 1833
+    gutenberg_agent_id: '39078'
+    url: http://www.gutenberg.org/2009/agents/39078
+description: ''
+gutenberg_issued: '2011-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37817'
+  lccn: '48036071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Social life and customs -- Illustrations'
+- !lcsh 'Peddling -- England -- London'
+- !lcc 'DA'
+- !lcsh 'Cries -- England -- London'
+title: 'The Cries of London
+
+  Exhibiting Several of the Itinerant Traders of Antient and Modern Times'
+url: http://www.gutenberg.org/ebooks/37817
